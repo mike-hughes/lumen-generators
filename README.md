@@ -47,7 +47,7 @@ This packages was mainly built to be used with Lumen, but it should work fine wi
 
 Add the generators package to your composer.json by running the command:
 
-`composer require wn/lumen-generators`
+`composer require mike-hughes/lumen-generators`
 
 Then add the service provider in the file `app/Providers/AppServiceProvider.php`like the following:
 
